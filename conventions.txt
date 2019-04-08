@@ -1,0 +1,20 @@
+Tout ce qui touche  à la JeVois : 	Cam
+					au drone :		drone
+					à la plateforme:plateforme
+
+
+Referentiels :
+- body			repere avion
+- pseudoBody	repere Vehicule1
+- cam 			repere JeVois
+
+Changement de ref:
+body2peudoBody
+
+Vecteurs :
+- X 		Vecteur d'état
+- U			Vecteur de commande
+- V 		Vecteur des vitesses
+
+Exemple :
+	Xtag_pseudoBody  <=>	position du tag dans le repere ltp
